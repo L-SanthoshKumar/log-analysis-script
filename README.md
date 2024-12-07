@@ -14,6 +14,6 @@ The results are saved in a CSV file for easy access and visualization.
 - **Requests per IP Address**: Counts and lists the number of requests made by each IP address.
 - **Most Accessed Endpoint**: Identifies the endpoint accessed most frequently.
 - **Suspicious Activity Detection**: Flags IPs with high numbers of failed login attempts.
-- **CSV Export**: Results are saved to a CSV file (`results.csv`).
+- **CSV Export**: Results are saved to a CSV file (`log_analysis_result.csv`).
 
 ---
